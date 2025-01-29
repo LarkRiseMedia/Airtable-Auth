@@ -1,0 +1,14 @@
+{
+  "name": "airtable-auth",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "airtable-debug": "node scripts/airtable-comprehensive-auth-debug.js"
+  },
+  "dependencies": {
+    "@types/node": "^22.10.10",
+    "airtable": "^0.12.2",
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7"
+  }
+}
