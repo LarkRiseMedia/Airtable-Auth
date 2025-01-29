@@ -73,4 +73,5 @@ AIRTABLE_BASE_ID=your_base_id_here
 ---
 
 **Developed by Andrew Wilkinson**
-**Meon Valley Web**
+
+[Meon Valley Web](https://meonvalleyweb.com 'Meon Valley Web Website')
